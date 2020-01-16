@@ -1,3 +1,4 @@
-# My Project Euler Solution
+# My Project Euler Solutions
 
-## DO NOT USE THIS TO COPY SOLUTIONS. PURELY FOR REFERENCE PURPOSES ONLY.
+### Do not copy these solutions and use them as your own. 
+### FOR REFERENCE PURPOSES ONLY.
